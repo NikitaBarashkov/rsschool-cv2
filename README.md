@@ -11,3 +11,9 @@ let bj = 2;
         bj++;    
 }
 ```
+
+* ### I have never worked in IT. This CV is my first project
+
+* ### I have a higher humanitarian education. Available knowledge was obtained from online lessons from different sources
+
+* ### I have basic level English language
